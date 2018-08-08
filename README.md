@@ -1,2 +1,3 @@
 # MDtest
-{: style="font-size:20pt;"}AAAAAAAAAA
+{: #puzzle}
+{: #puzzle}
