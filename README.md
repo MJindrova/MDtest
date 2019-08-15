@@ -1,7 +1,7 @@
 # MDtest
 ### <i class="fas fa-puzzle-piece fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple Puzzle Icon
 ### <i class="fas fa-puzzle-piece fa-fw" style="color:rgb(107,79,187); font-size:1em" aria-hidden="true"></i> Purple Puzzle Icon
-### <span style="color:rgb(107,79,187); font-size:2em">haahah</span> Purple Puzzle Icon
+### <span style="color:rgb(107,79,187); font-size:3em">haahah</span> Purple Puzzle Icon
 
 
 # System Variables in VFP 9
